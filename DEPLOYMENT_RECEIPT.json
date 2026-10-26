@@ -1,0 +1,14 @@
+{
+  "project": "alexander-graham-bell-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "5oGrDrYkjLWGpNsomJmdVhDf2Xc1Zyyqk8hP533odcDq",
+  "vault_account": "D54jDurjfwGEod1iame9dEmR94SsMs4YNaYh2PmVrKvc",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4i7ETdK3WquMVJgdi37daeviat8tpNLGcZFvAgNSoJk35FmvRj9r59E4PV3HRiXgBneav8YbsDdkiJwcuSQ6YRDn",
+  "account_tx": "5F6iDH8UurztfajyCg3j2BPAKCdPBtkMpD4eQaMZc49PXMk7wLSdk6ciasi6UcnztqMSFZptJdKFhDzXuoEwUF4j",
+  "mint_tx": "5kzcVCE4Mj2b3PtesvoJB5jrDHgAaDbwTt7tRt3kH2NeymZaFQdZ3oCfPDxduNzWNDyPpuW6hudf6La1bZT5EsGC",
+  "solana_explorer_mint": "https://explorer.solana.com/address/5oGrDrYkjLWGpNsomJmdVhDf2Xc1Zyyqk8hP533odcDq?cluster=devnet",
+  "timestamp": "2026-10-26 16:16:31 UTC"
+}
